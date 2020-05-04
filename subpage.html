@@ -8,6 +8,20 @@
   <head>
     <title>page title</title>
     <link rel="icon" href="favicon.ico" sizes="196x196" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-125820209-3"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "UA-125820209-3");
+    </script>
     <meta charset="utf-8" />
     <meta
       name="viewport"
@@ -56,11 +70,9 @@
         <!-- Content -->
         <div class="wrapper">
           <div class="inner">
-            <i
-              >description</i
-            >
+            <i>description</i>
             <br /><br />
-            Content 
+            Content
           </div>
         </div>
       </section>
