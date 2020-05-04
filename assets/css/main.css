@@ -100,7 +100,7 @@ input, select, textarea {
 
 	body {
 		background-color: #002250;
-		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg2.jpg");
 		background-size: auto,
  cover;
 		background-attachment: fixed,
@@ -3461,11 +3461,11 @@ input, select, textarea {
 			text-transform: uppercase;
 		}
 
-		@media screen and (max-width: 1280px) {
+		@media screen and (max-width: 1600px) {
 
 			#banner {
 				padding: 7em 0 8.25em 0 ;
-				background-color: #2e3141;
+				background-color: #15317E;
 				background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
 				background-size: auto,
  cover;
@@ -3573,7 +3573,7 @@ input, select, textarea {
 			text-transform: uppercase;
 		}
 
-	@media screen and (max-width: 1280px) {
+	@media screen and (max-width: 1600px) {
 
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
@@ -4067,11 +4067,11 @@ input, select, textarea {
 					color: inherit;
 				}
 
-	@media screen and (max-width: 1280px) {
+	@media screen and (max-width: 1600px) {
 
 		#footer {
 			background-color: #2e3141;
-			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg1.jpg");
 			background-size: auto,
  cover;
 			background-position: center,
