@@ -8,28 +8,38 @@
 
 
 <url>
-  <loc>https://apnea.hk/</loc>
-  <lastmod>2020-05-04T06:28:49+00:00</lastmod>
+  <loc>https://www.apnea.hk/</loc>
+  <lastmod>2020-05-06T13:09:56+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://apnea.hk/index.html</loc>
-  <lastmod>2020-05-04T06:28:49+00:00</lastmod>
+  <loc>https://www.apnea.hk/index.html</loc>
+  <lastmod>2020-05-06T13:09:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://apnea.hk/about.html</loc>
-  <lastmod>2020-05-04T06:28:49+00:00</lastmod>
+  <loc>https://www.apnea.hk/wave1.html</loc>
+  <lastmod>2020-05-06T13:09:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://apnea.hk/wave1.html</loc>
-  <lastmod>2020-05-04T06:28:49+00:00</lastmod>
+  <loc>https://www.apnea.hk/wave2.html</loc>
+  <lastmod>2020-05-06T13:09:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://apnea.hk/wave2.html</loc>
-  <lastmod>2020-05-04T06:28:49+00:00</lastmod>
+  <loc>https://www.apnea.hk/about.html</loc>
+  <lastmod>2020-05-06T13:09:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.apnea.hk/wave1C.html</loc>
+  <lastmod>2020-05-06T13:09:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.apnea.hk/wave2C.html</loc>
+  <lastmod>2020-05-06T13:09:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
