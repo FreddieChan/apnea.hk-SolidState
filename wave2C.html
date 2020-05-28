@@ -195,6 +195,16 @@
     <script src="assets/js/breakpoints.min.js"></script>
     <script src="assets/js/util.js"></script>
     <script src="assets/js/main.js"></script>
+    <!-- WhatsApp button -->
+    <script src="https://static.landbot.io/whatsapp-widget/whatsapp-button-widget.js"></script>
+    <script>
+        var whatsAppBtn = new LandbotWhatsAppBtn({
+            dialcode: '852',
+            phone: '55424089',
+            text: 'I am interested in your freediving course! Please send me more details.  apnea.hk ',
+        });
+        whatsAppBtn.renderButton()
+    </script>
 </body>
 
 </html>

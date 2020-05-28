@@ -22,7 +22,6 @@
         gtag("js", new Date());
 
         gtag("config", "UA-125820209-3");
-
     </script>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -151,6 +150,14 @@
     <script src="assets/js/breakpoints.min.js"></script>
     <script src="assets/js/util.js"></script>
     <script src="assets/js/main.js"></script>
-</body>
-
-</html>
+    <!-- WhatsApp button -->
+    <script src="https://static.landbot.io/whatsapp-widget/whatsapp-button-widget.js"></script>
+    <script>
+        var whatsAppBtn = new LandbotWhatsAppBtn({
+            dialcode: '852',
+            phone: '55424089',
+            text: 'I am interested in your freediving course! Please send me more details.  apnea.hk ',
+        });
+        whatsAppBtn.renderButton()
+    </script>
+</body></html>
