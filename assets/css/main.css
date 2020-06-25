@@ -490,11 +490,11 @@ pre code {
 hr {
     border: 0;
     border-bottom: solid 2px rgba(255, 255, 255, 0.125);
-    margin: 1em 0;
+    margin: 1 em 0;
 }
 
 hr.major {
-    margin: 2em 0;
+    margin: 1 em 0;
 }
 
 .align-left {
