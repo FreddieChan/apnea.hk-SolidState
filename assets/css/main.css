@@ -1,5 +1,5 @@
 @import url(fontawesome-all.min.css);
-@import url('https://fonts.googleapis.com/css2?family=Baloo+2&family=Noto+Sans+TC&family=Noto+Serif+TC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&family=Noto+Sans+TC&family=Noto+Serif+TC&?family=MuseoModerno:wght@600&display=swap');
 /*
 	Solid State by HTML5 UP
 	html5up.net | @ajlkn
@@ -299,7 +299,7 @@ a.special:not(.button) {
     text-decoration: none;
     border-bottom: 0;
     display: block;
-    font-family: Raleway, Helvetica, sans-serif;
+    font-family: 'MuseoModerno', cursive, sans-serif;
     font-size: 0.8em;
     font-weight: 700;
     letter-spacing: 0.1em;
@@ -369,7 +369,7 @@ h4,
 h5,
 h6 {
     color: #ffffff;
-    font-family: 'Noto Serif TC', serif, Raleway, Helvetica ;
+    font-family: 'MuseoModerno', cursive, 'Noto Serif TC', serif;
     ;
 
     font-weight: 700;
@@ -2409,7 +2409,7 @@ input[type="radio"] + label {
     cursor: pointer;
     display: inline-block;
     font-size: 1em;
-    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-family: 'Baloo 2', cursive, Helvetica, sans-serif;
     text-transform: none;
     letter-spacing: 0;
     font-weight: 300;
