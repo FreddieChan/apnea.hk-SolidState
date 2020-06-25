@@ -369,7 +369,7 @@ h4,
 h5,
 h6 {
     color: #ffffff;
-    font-family: Raleway, Helvetica, 'Noto Serif TC', serif;
+    font-family: 'Noto Serif TC', serif, Raleway, Helvetica ;
     ;
 
     font-weight: 700;
